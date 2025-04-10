@@ -9,7 +9,7 @@
     - **8 à 11 ans** : exercices **simples** et **difficiles**, pour renforcer la logique, les calculs et la résolution de problèmes.
 - 🧩 **Grande variété de mini-jeux et d’exercices** dans chaque menu.
 - 🧠 Développement de la **logique, rapidité de réflexion et confiance en soi** en maths.
-- 🔊 Interface enfant intuitive, sons amusants, visuels colorés.
+- 🔊 Interface enfant intuitive, visuels colorés.
 
 ## 📲 Télécharger l'application
 L'application n'est pour l'instant disponible que pour les smartphones Android.
