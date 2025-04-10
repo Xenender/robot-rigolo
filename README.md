@@ -12,6 +12,7 @@
 - 🔊 Interface enfant intuitive, sons amusants, visuels colorés.
 
 ## 📲 Télécharger l'application
+L'application n'est pour l'instant disponible que pour les smartphones Android.
 
 L’application est disponible sur le **Google Play Store** :
 
