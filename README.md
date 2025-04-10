@@ -1,6 +1,6 @@
 # 📱 Robot Rigolo - Apprendre les Maths en s'Amusant 🧮🎉
 
-**AppliMath** est une application mobile éducative conçue spécialement pour les enfants âgés de **5 à 11 ans**. Elle a pour objectif d’aider les enfants à améliorer leurs compétences en mathématiques tout en s’amusant grâce à des exercices interactifs, ludiques et adaptés à leur âge.
+**Robot Rigolo** est une application mobile éducative conçue spécialement pour les enfants âgés de **5 à 11 ans**. Elle a pour objectif d’aider les enfants à améliorer leurs compétences en mathématiques tout en s’amusant grâce à des exercices interactifs, ludiques et adaptés à leur âge.
 
 ## 🌟 Fonctionnalités principales
 
@@ -30,8 +30,8 @@ L’application est développée avec **Flutter**. Si vous souhaitez contribuer 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/votre-utilisateur/applimath.git
-cd applimath
+git clone https://github.com/Xenender/robot-rigolo.git
+cd robot-rigolo
 ```
 ## 📦 Installer les dépendances
 ```bash
