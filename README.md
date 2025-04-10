@@ -5,7 +5,7 @@
 ## 🌟 Fonctionnalités principales
 
 - 🎯 **Exercices adaptés à l’âge** :
-    - **5 à 7 ans** : exercices simples, visuels et colorés pour découvrir les bases (addition, formes, chiffres…).
+    - **5 à 7 ans** : exercices simples, visuels et colorés pour découvrir les bases (addition, suites logiques, multiplications...).
     - **8 à 11 ans** : exercices **simples** et **difficiles**, pour renforcer la logique, les calculs et la résolution de problèmes.
 - 🧩 **Grande variété de mini-jeux et d’exercices** dans chaque menu.
 - 🧠 Développement de la **logique, rapidité de réflexion et confiance en soi** en maths.
