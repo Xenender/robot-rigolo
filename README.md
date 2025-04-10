@@ -1,4 +1,4 @@
-# 📱 Robot Rigolo - Apprendre les Maths en s'Amusant 🧮🎉
+# 📱 Robot Rigolo - Apprendre les maths en s'amusant 🧮🎉
 
 **Robot Rigolo** est une application mobile éducative conçue spécialement pour les enfants âgés de **5 à 11 ans**. Elle a pour objectif d’aider les enfants à améliorer leurs compétences en mathématiques tout en s’amusant grâce à des exercices interactifs, ludiques et adaptés à leur âge.
 
