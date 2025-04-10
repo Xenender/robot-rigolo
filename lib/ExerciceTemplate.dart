@@ -357,8 +357,8 @@ class _ExerciceTemplateState extends State<ExerciceTemplate> {
                                     _currentQuestion!.explication!,
                                     textAlign: TextAlign.center,
                                     style: const TextStyle(
-                                      fontSize: 25,
-                                      fontFamily: 'Coconut',
+                                      fontSize: 30,
+                                      fontFamily: 'Embol',
                                       fontWeight: FontWeight.w400,
                                       color: Colors.white,
                                     ),
