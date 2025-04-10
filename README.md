@@ -32,11 +32,15 @@ L’application est développée avec **Flutter**. Si vous souhaitez contribuer 
 ```bash
 git clone https://github.com/votre-utilisateur/applimath.git
 cd applimath
+```
 ## 📦 Installer les dépendances
+```bash
 flutter pub get
-### ▶️ Lancer l'applicatio
-n
+```
+### ▶️ Lancer l'application
+```bash
 flutter run
+```
 
 ## 🤝 Contribution
 Tu veux contribuer à ce projet ? Super ! Voici comment faire :
@@ -53,7 +57,7 @@ Tu veux contribuer à ce projet ? Super ! Voici comment faire :
 
 ## 📬 Contact
 Tu as des questions, suggestions ou bugs à signaler ?
-📧 Email : tonemail@example.com
+📧 Email : xenenderdev@gmail.com
 📧 Email : mlayehjihen@gmail.com
 📧 Email : 
 
@@ -62,6 +66,6 @@ Tu as des questions, suggestions ou bugs à signaler ?
 👨‍👩‍👧 Parents et éducateurs à la recherche d’un outil ludique et pédagogique
 
 ## Authors
-[ Valentin ]
+[ Valentin Pecqueux]
 [Jihen Mlayeh]
 [Mohamed Aziz belhaj hssine]
