@@ -1,0 +1,298 @@
+[
+  {
+    "question": "2, 4, X, 8",
+    "correctAnswer": 6,
+    "choices": [6, 5, 7, 8],
+    "explication": "On ajoute 2 à chaque nombre."
+  },
+  {
+    "question": "1, 2, X, 4",
+    "correctAnswer": 3,
+    "choices": [3, 2, 4, 5],
+    "explication": "La suite des nombres consécutifs manque le 3."
+  },
+  {
+    "question": "3, 6, X, 12",
+    "correctAnswer": 9,
+    "choices": [9, 8, 10, 11],
+    "explication": "On ajoute 3 à chaque fois."
+  },
+  {
+    "question": "5, 10, X, 20",
+    "correctAnswer": 15,
+    "choices": [15, 14, 16, 12],
+    "explication": "On ajoute 5 à chaque nombre."
+  },
+  {
+    "question": "4, 8, X, 16",
+    "correctAnswer": 12,
+    "choices": [12, 10, 14, 16],
+    "explication": "On ajoute 4 à chaque fois."
+  },
+  {
+    "question": "10, 15, X, 25",
+    "correctAnswer": 20,
+    "choices": [20, 18, 22, 25],
+    "explication": "La suite augmente de 5 à chaque fois."
+  },
+  {
+    "question": "1, 3, X, 7",
+    "correctAnswer": 5,
+    "choices": [5, 4, 6, 7],
+    "explication": "La suite est 1, 3, 5, 7."
+  },
+  {
+    "question": "2, 3, X, 5",
+    "correctAnswer": 4,
+    "choices": [4, 3, 5, 6],
+    "explication": "La suite consécutive est 2, 3, 4, 5."
+  },
+  {
+    "question": "10, 20, X, 40",
+    "correctAnswer": 30,
+    "choices": [30, 25, 35, 40],
+    "explication": "On ajoute 10 à chaque nombre."
+  },
+  {
+    "question": "3, 5, X, 9",
+    "correctAnswer": 7,
+    "choices": [7, 6, 8, 9],
+    "explication": "La suite est 3, 5, 7, 9."
+  },
+  {
+    "question": "6, 8, X, 12",
+    "correctAnswer": 10,
+    "choices": [10, 9, 11, 12],
+    "explication": "On passe de 6 à 8, puis ajoute 2 pour obtenir 10 et enfin 12."
+  },
+  {
+    "question": "7, 14, X, 28",
+    "correctAnswer": 21,
+    "choices": [21, 20, 22, 28],
+    "explication": "La suite des multiplications par 7 est 7, 14, 21, 28."
+  },
+  {
+    "question": "5, 7, X, 11",
+    "correctAnswer": 9,
+    "choices": [9, 8, 10, 11],
+    "explication": "La suite est 5, 7, 9, 11."
+  },
+  {
+    "question": "8, 12, X, 20",
+    "correctAnswer": 16,
+    "choices": [16, 14, 18, 20],
+    "explication": "On ajoute 4 à chaque nombre : 8, 12, 16, 20."
+  },
+  {
+    "question": "9, 12, X, 18",
+    "correctAnswer": 15,
+    "choices": [15, 14, 16, 18],
+    "explication": "La suite augmente de 3 : 9, 12, 15, 18."
+  },
+  {
+    "question": "10, 12, X, 16",
+    "correctAnswer": 14,
+    "choices": [14, 13, 15, 16],
+    "explication": "On ajoute 2 à chaque fois : 10, 12, 14, 16."
+  },
+  {
+    "question": "2, 4, 6, X",
+    "correctAnswer": 8,
+    "choices": [8, 7, 9, 10],
+    "explication": "La suite augmente de 2."
+  },
+  {
+    "question": "3, 4, X, 6",
+    "correctAnswer": 5,
+    "choices": [5, 4, 6, 7],
+    "explication": "La suite consécutive est 3, 4, 5, 6."
+  },
+  {
+    "question": "5, 10, 15, X",
+    "correctAnswer": 20,
+    "choices": [20, 18, 22, 25],
+    "explication": "On ajoute 5 à chaque nombre."
+  },
+  {
+    "question": "1, 2, 3, X, 5",
+    "correctAnswer": 4,
+    "choices": [4, 3, 5, 6],
+    "explication": "La suite complète est 1, 2, 3, 4, 5."
+  },
+  {
+    "question": "2, 4, 6, 8, X",
+    "correctAnswer": 10,
+    "choices": [10, 9, 11, 12],
+    "explication": "La suite augmente de 2."
+  },
+  {
+    "question": "10, 20, 30, X",
+    "correctAnswer": 40,
+    "choices": [40, 35, 45, 50],
+    "explication": "On ajoute 10 à chaque nombre."
+  },
+  {
+    "question": "3, 6, 9, 12, X",
+    "correctAnswer": 15,
+    "choices": [15, 14, 16, 13],
+    "explication": "La suite augmente de 3."
+  },
+  {
+    "question": "4, 8, 12, X, 20",
+    "correctAnswer": 16,
+    "choices": [16, 15, 17, 18],
+    "explication": "On ajoute 4 à chaque nombre : 4, 8, 12, 16, 20."
+  },
+  {
+    "question": "7, 10, X, 16",
+    "correctAnswer": 13,
+    "choices": [13, 12, 14, 15],
+    "explication": "La suite augmente progressivement : 7, 10, 13, 16."
+  },
+  {
+    "question": "5, 9, X, 17",
+    "correctAnswer": 13,
+    "choices": [13, 12, 14, 15],
+    "explication": "La suite est 5, 9, 13, 17."
+  },
+  {
+    "question": "6, 12, X, 24",
+    "correctAnswer": 18,
+    "choices": [18, 16, 20, 22],
+    "explication": "On ajoute 6 à chaque nombre : 6, 12, 18, 24."
+  },
+  {
+    "question": "8, 16, X, 32",
+    "correctAnswer": 24,
+    "choices": [24, 22, 26, 28],
+    "explication": "La suite double, et on ajoute 8 : 8, 16, 24, 32."
+  },
+  {
+    "question": "10, 15, X, 25",
+    "correctAnswer": 20,
+    "choices": [20, 18, 22, 24],
+    "explication": "La suite augmente de 5 : 10, 15, 20, 25."
+  },
+  {
+    "question": "3, 6, X, 12, 15",
+    "correctAnswer": 9,
+    "choices": [9, 8, 10, 11],
+    "explication": "La suite augmente de 3 : 3, 6, 9, 12, 15."
+  }
+  ,
+  {
+    "question": "1, 3, 5, X, 9",
+    "correctAnswer": 7,
+    "choices": [7, 6, 8, 9],
+    "explication": "Les nombres impairs consécutifs sont 1, 3, 5, 7, 9."
+  },
+  {
+    "question": "4, 6, 8, 10, X",
+    "correctAnswer": 12,
+    "choices": [12, 11, 13, 10],
+    "explication": "La suite augmente de 2 à chaque fois."
+  },
+  {
+    "question": "2, 4, 8, 16, X",
+    "correctAnswer": 32,
+    "choices": [32, 30, 34, 28],
+    "explication": "La suite double à chaque étape : 2, 4, 8, 16, 32."
+  },
+  {
+    "question": "3, 6, 12, 24, X",
+    "correctAnswer": 48,
+    "choices": [48, 42, 54, 50],
+    "explication": "La suite double : 3, 6, 12, 24, 48."
+  },
+  {
+    "question": "5, 6, 7, X, 9",
+    "correctAnswer": 8,
+    "choices": [8, 7, 9, 10],
+    "explication": "La suite consécutive est 5, 6, 7, 8, 9."
+  },
+  {
+    "question": "10, 8, X, 4",
+    "correctAnswer": 6,
+    "choices": [6, 7, 5, 8],
+    "explication": "La suite diminue de 2 : 10, 8, 6, 4."
+  },
+  {
+    "question": "20, 18, X, 14",
+    "correctAnswer": 16,
+    "choices": [16, 15, 17, 14],
+    "explication": "La suite diminue de 2 : 20, 18, 16, 14."
+  },
+  {
+    "question": "30, 25, X, 15",
+    "correctAnswer": 20,
+    "choices": [20, 18, 22, 25],
+    "explication": "La suite diminue de 5 : 30, 25, 20, 15."
+  },
+  {
+    "question": "3, 5, 7, 9, X",
+    "correctAnswer": 11,
+    "choices": [11, 10, 12, 9],
+    "explication": "Les nombres impairs consécutifs sont 3, 5, 7, 9, 11."
+  },
+  {
+    "question": "4, 7, 10, X, 16",
+    "correctAnswer": 13,
+    "choices": [13, 12, 14, 15],
+    "explication": "La suite augmente de 3 : 4, 7, 10, 13, 16."
+  },
+  {
+    "question": "2, 5, 8, X, 14",
+    "correctAnswer": 11,
+    "choices": [11, 10, 12, 13],
+    "explication": "La suite augmente de 3 : 2, 5, 8, 11, 14."
+  },
+  {
+    "question": "6, 7, 8, X, 10",
+    "correctAnswer": 9,
+    "choices": [9, 8, 10, 11],
+    "explication": "Les nombres consécutifs sont 6, 7, 8, 9, 10."
+  },
+  {
+    "question": "8, 10, 12, X",
+    "correctAnswer": 14,
+    "choices": [14, 13, 15, 12],
+    "explication": "La suite augmente de 2 : 8, 10, 12, 14."
+  },
+  {
+    "question": "10, 12, 14, X, 18",
+    "correctAnswer": 16,
+    "choices": [16, 15, 17, 18],
+    "explication": "La suite augmente de 2 : 10, 12, 14, 16, 18."
+  },
+  {
+    "question": "5, 10, 15, X, 25",
+    "correctAnswer": 20,
+    "choices": [20, 18, 22, 25],
+    "explication": "La suite augmente de 5 : 5, 10, 15, 20, 25."
+  },
+
+  {
+    "question": "3, 3, 6, X, 12",
+    "correctAnswer": 9,
+    "choices": [9, 8, 10, 7],
+    "explication": "La suite double à partir du deuxième terme : 3, 3, 6, 9, 12."
+  },
+  {
+    "question": "2, 2, 4, X, 8",
+    "correctAnswer": 6,
+    "choices": [6, 5, 7, 8],
+    "explication": "La suite double : 2, 2, 4, 6, 8."
+  },
+  {
+    "question": "4, 6, 8, 10, 12, X",
+    "correctAnswer": 14,
+    "choices": [14, 13, 15, 16],
+    "explication": "La suite augmente de 2 : 4, 6, 8, 10, 12, 14."
+  },
+  {
+    "question": "7, 9, 11, X, 15",
+    "correctAnswer": 13,
+    "choices": [13, 12, 14, 15],
+    "explication": "Les nombres impairs consécutifs sont 7, 9, 11, 13, 15."
+  }
+]
