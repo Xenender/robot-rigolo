@@ -60,7 +60,7 @@ Tu veux contribuer à ce projet ? Super ! Voici comment faire :
 Tu as des questions, suggestions ou bugs à signaler ?
 📧 Email : xenenderdev@gmail.com
 📧 Email : mlayehjihen@gmail.com
-📧 Email : 
+📧 Email : azizhassine673@gmail.com
 
 ## 🧒 Public visé
 👧 Enfants de 5 à 11 ans
