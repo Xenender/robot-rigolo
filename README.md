@@ -19,7 +19,7 @@ L’application est disponible sur le **Google Play Store** :
 
 Si vous n'avez pas de smartphone Android, vous pouvez accéder à l'application depuis le navigateur Internet de votre choix, via le lien suivant :
 
-[Accéder à Robot rigolo en ligne](https://robot-rigolo.web.app/)
+➡️ [Accéder à Robot rigolo en ligne](https://robot-rigolo.web.app/)
 
 Cependant, l'application n'est adaptée qu'aux dimensions mobiles ; il vous faudra donc réduire la taille de la fenêtre ou bien accéder au site depuis un smartphone.
 
