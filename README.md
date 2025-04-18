@@ -2,6 +2,13 @@
 
 **Robot Rigolo** est une application mobile éducative conçue spécialement pour les enfants âgés de **5 à 11 ans**. Elle a pour objectif d’aider les enfants à améliorer leurs compétences en mathématiques tout en s’amusant grâce à des exercices interactifs, ludiques et adaptés à leur âge.
 
+
+## 🎥 Vidéo de démonstration
+
+[![Regarder la vidéo de présentation](https://img.youtube.com/vi/p1fEW2NNwuo/hqdefault.jpg)](https://youtu.be/p1fEW2NNwuo)
+
+> 🔗 *Cliquez sur l'image pour visionner la vidéo sur YouTube*
+
 ## 🌟 Fonctionnalités principales
 
 - 🎯 **Exercices adaptés à l’âge** :
